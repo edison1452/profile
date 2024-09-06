@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50; /* Harmony */
+    background-color: #E6E6FA; /* Lavender for harmony */
     color: white;
     text-align: center;
     padding: 20px;
@@ -18,17 +18,9 @@ section {
     margin: 10px;
 }
 
-#about-me, #hobbies {
+#about-me, #hobbies, #cs-journey {
     background-color: #ffffff;
-    border: 2px solid #4CAF50;
-    margin-bottom: 15px;
-    border-radius: 5px;
-}
-
-#theme {
-    background-color: #ff4d4d; /* Discord */
-    border: 2px solid #333;
-    color: white;
+    border: 2px solid #E6E6FA;
     margin-bottom: 15px;
     border-radius: 5px;
 }
@@ -39,4 +31,3 @@ footer {
     background-color: #333;
     color: white;
 }
-
